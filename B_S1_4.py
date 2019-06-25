@@ -1,7 +1,7 @@
 
 x = input()
 
-if x.isaplha():
+if x.isalpha():
   print("Alphabet")
 else:
   print("No")
