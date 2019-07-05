@@ -15,3 +15,6 @@ z.sort()
 
 for i in range(len(z)):
   print(z[i],end=' ')
+
+if (len(z)==0):
+  print("-1")
