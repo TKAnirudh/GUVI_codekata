@@ -23,4 +23,5 @@ if len(y) == 0:
             if (i!=j) and ((mod(x[i]+x[j])==1)):
                 print(x[i],x[j])
                 break
+        break
 
